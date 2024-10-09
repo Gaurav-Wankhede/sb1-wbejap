@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Understanding Indian Polity",
+      "content": "Indian Polity is a crucial subject for UPSC preparation...",
+      "category": "Prelims",
+      "subcategory": "Indian Polity and Governance",
+      "date": "2023-06-01"
+    },
+    {
+      "id": "2",
+      "title": "Economic Reforms in India",
+      "content": "Economic reforms in India have played a significant role...",
+      "category": "Mains",
+      "subcategory": "Indian Economy",
+      "date": "2023-06-05"
+    },
+    {
+      "id": "3",
+      "title": "Preparing for the UPSC Interview",
+      "content": "The UPSC interview is the final stage of the civil services examination...",
+      "category": "Interview",
+      "subcategory": "Interview Preparation",
+      "date": "2023-06-10"
+    }
+  ]
+}
